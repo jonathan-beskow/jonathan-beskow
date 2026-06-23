@@ -38,4 +38,4 @@ With 5 years of experience in the tech industry, I work in technical leadership 
 ### 📫 How to reach me
 
 * **Email:** [j.beskow@gmail.com](mailto:j.beskow@gmail.com)
-* **LinkedIn:** [in/your-username-here](https://www.linkedin.com/in/your-username-here)
+* **LinkedIn:** [in/jonathanbeskow]((https://www.linkedin.com/in/jonathanbeskow/))
